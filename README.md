@@ -1,29 +1,8 @@
-My Docs Mini App
-Features:
-Document cards with descriptions and file sizes
-Download and close options with interactive icons
-Drag-and-drop animations for an engaging user experience
-Tech Stack:
-React
-Framer Motion
-Usage:
-Clone the repository:
+# React + Vite
 
-bash
-Copy code
-git clone https://github.com/your-username/my-docs-mini-app.git
-Install dependencies:
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-bash
-Copy code
-cd my-docs-mini-app
-npm install
-Run the app:
+Currently, two official plugins are available:
 
-bash
-Copy code
-npm start
-The app will be accessible at http://localhost:3000.
-
-Contributing:
-Contributions are welcome! Feel free to submit issues and pull requests.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
